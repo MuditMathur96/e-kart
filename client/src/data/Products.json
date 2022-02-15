@@ -1,0 +1,30 @@
+[
+    {
+        "id":1,
+        "name":"Black Shoe",
+        "description":"Best quality shoe for fashion and casual use",
+        "image":"shoe-1.jpeg",
+        "price":1200
+    },
+    {
+        "id":2,
+        "name":"Stylish Shoes ",
+        "description":"Best quality shoe for fashion and casual use",
+        "image":"shoe-2.jpeg",
+        "price":1400
+    },
+    {
+        "id":3,
+        "name":"Red Sports Shoes",
+        "description":"Best quality shoe for fashion and casual use",
+        "image":"shoe-3.jpg",
+        "price":2200
+    },
+    {
+        "id":4,
+        "name":"Casual White Shoes",
+        "description":"Best quality shoe for fashion and casual use",
+        "image":"shoe-4.jpeg",
+        "price":1800
+    }
+]
